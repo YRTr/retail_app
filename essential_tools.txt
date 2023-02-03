@@ -1,0 +1,8 @@
+Extensions :
+    - React Native Tools
+                    [ Debugging and Integrated commands for React native ]
+    - React-Native/React/Redux snippets
+                    [ Code snippets for auto-efficient code building ]
+    - Prettier Code formatter
+    - Material Icon Theme
+                    [ Material design icons for VS code ]

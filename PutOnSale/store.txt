@@ -1,0 +1,12 @@
+<Text>Hello React Native</Text>
+      <TouchableOpacity>
+        <Image
+          fadeDuration={1000}
+          source={{
+            width: 200,
+            height: 300,
+            uri: "https://picsum.photos/seed/picsum/200/300"
+          }} />
+      </TouchableOpacity>
+      <Button color={'orange'} title="Click Me!" onPress={() => alert('Button Tapped')} />
+      <StatusBar style="auto" />
